@@ -1,7 +1,7 @@
 name: morphllm
 kind: model-provider
 version: 1.0.0
-description: Morph's OpenAI-compatible API for open models (Kimi, GLM, DeepSeek, Qwen, MiniMax)
+description: Morph's OpenAI-compatible API for open models (Kimi, GLM, DeepSeek)
 author: Morph
 requires_hermes: ">=0.23.0"
 requires_env:

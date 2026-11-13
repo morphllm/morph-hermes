@@ -1,8 +1,8 @@
 # morph-hermes
 
 A [Hermes Agent](https://github.com/NousResearch/hermes-agent) model-provider
-plugin for [Morph](https://www.morphllm.com). Morph serves open models (Kimi,
-GLM, DeepSeek, Qwen, MiniMax and more) on an OpenAI-compatible API.
+plugin for [Morph](https://www.morphllm.com). Morph serves open models such as Kimi,
+GLM and DeepSeek on an OpenAI-compatible API.
 
 ## Install
 
