@@ -1,0 +1,11 @@
+name: morphllm
+kind: model-provider
+version: 1.0.0
+description: Morph's OpenAI-compatible API for open models (Kimi, GLM, DeepSeek, Qwen, MiniMax)
+author: Morph
+requires_hermes: ">=0.23.0"
+requires_env:
+  - name: MORPH_API_KEY
+    description: Morph API key
+    url: https://www.morphllm.com/dashboard/api-keys
+    secret: true
