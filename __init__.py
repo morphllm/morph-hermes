@@ -75,6 +75,7 @@ morph = MorphProfile(
     signup_url="https://www.morphllm.com/dashboard/api-keys",
     env_vars=("MORPH_API_KEY", "MORPH_BASE_URL"),
     base_url="https://api.morphllm.com/v1",
+    models_dev_id="morph",
     default_headers={"User-Agent": _USER_AGENT},
 )
 
